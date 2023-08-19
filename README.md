@@ -1,4 +1,4 @@
-![Master Head](https://i.pinimg.com/originals/97/a2/11/97a2116bffe0ca37b23a6524be476531.gif)
+![Master Head](https://nife.io/wp-content/uploads/2022/08/cloud.gif)
 <h1 align="center">Hi 👋, I'm Shokhsanam Turaeva</h1>
 <h3 align="center">A passionate Cloud Engineer in the USA.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
