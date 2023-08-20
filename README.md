@@ -1,5 +1,8 @@
-![Master Head](https://nife.io/wp-content/uploads/2022/08/cloud.gif)
-<h1 align="center">Hi 👋, I'm Shokhsanam Turaeva! ✨ Happy to see you! ✨ Welcome to my GitHub page ✨</h1>
+<h1 align="center">
+  <img src="https://nife.io/wp-content/uploads/2022/08/cloud.gif" alt="Master Head" width="900" height="300"/>
+</h1>
+  <h1 align="center">Hi 👋, I'm Shokhsanam Turaeva! ✨ Happy to see you! ✨
+<h1 align="center">✨ Welcome to my GitHub page ✨</h1>
 <h3 align="center">A passionate DevOps/Cloud Engineer in the USA. 👩🏻‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
