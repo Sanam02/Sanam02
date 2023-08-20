@@ -1,13 +1,17 @@
 ![Master Head](https://nife.io/wp-content/uploads/2022/08/cloud.gif)
-<h1 align="center">Hi 👋, I'm Shokhsanam Turaeva</h1>
-<h3 align="center">A passionate Cloud Engineer in the USA.</h3>
+<h1 align="center">Hi 👋, I'm Shokhsanam Turaeva! ✨ Happy to see you! ✨ Welcome to my GitHub page ✨</h1>
+<h3 align="center">A passionate DevOps/Cloud Engineer in the USA. 👩🏻‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
-- 🌱 I’m currently learning **Python and Kubernetes**
+- 🔭 I’m currently working on **My DevOps/Cloud projects for my portfolio 📚🗂**
+
+- 🌱 I’m currently learning **Python | Docker | Kubernetes**
+
+- 👯 I’m looking to collaborate on **anything that involves DevOps | Cloud**
 
 - 📫 How to reach me **shokhsanamturaeva2@gmail.com**
 
-- ⚡ Fun fact about me: **For me everyday is CLOUDy ☁️☁️☁️**
+- ⚡ Fun fact **For me everyday is CLOUDy ☁️☁️☁️** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
