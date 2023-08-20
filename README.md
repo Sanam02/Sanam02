@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python | Docker | Kubernetes**
 
-- 👯 I’m looking to collaborate on **anything that involves DevOps | Cloud**
+- 🤝 I’m looking to collaborate on **anything that involves DevOps | Cloud**
 
 - 📫 How to reach me **shokhsanamturaeva2@gmail.com**
 
