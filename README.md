@@ -26,5 +26,4 @@
 src="https://github-readme-stats.vercel.app/api/top-langs?username=sanam02&show_icons=true&locale=en&layout=compact" alt="sanam02" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanam02&show_icons=true&locale=en" alt="sanam02" /></p>
 
-
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=<Sanam02>%2F<Sanam02>&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=<Sanam02>%2F<Sanam02>)
