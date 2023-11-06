@@ -27,7 +27,7 @@ href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="n
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-![Github Stats] (https://github-readme-stats.vercel.app/api?username=Sanam02&count_private=true&show_icons=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanam02&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanam02&hide=TeX&layout=compact)
   
