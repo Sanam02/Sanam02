@@ -16,10 +16,7 @@
 
 - ⚡ Fun fact ** I love cooking 👩🏻‍🍳🥗🍝🥧 ** 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shokhsanam-turaeva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shokhsanam-turaeva" height="30" width="40" /></a>
-</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/shokhsanam-turaeva" target="blank">
@@ -28,7 +25,7 @@
 
   <!-- Gmail -->
 <a href="mailto:shokhsanam.turaeva2@gmail.com" target="blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="30"/>
 </a>
 
 </p>
