@@ -25,7 +25,7 @@
 
   <!-- Gmail -->
 <a href="mailto:shokhsanam.turaeva2@gmail.com" target="blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="30"/>
+   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="30"/>
 </a>
 
 </p>
