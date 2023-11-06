@@ -91,5 +91,5 @@
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanam02&count_private=true&show_icons=true&include_all_commits=true) 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanam02&hide=TeX&layout=compact) 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanam02)](https://github.com/Sanam02)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?Sanam02=Sanam02)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sanam02)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=Sanam02%2FSanam02&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=Sanam02%2FSanam02)
