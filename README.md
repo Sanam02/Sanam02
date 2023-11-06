@@ -87,7 +87,7 @@
 </p>
 
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanam02jem&show_icons=true&theme=cobalt) 
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanam02&show_icons=true&theme=cobalt) 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanam02&hide=TeX&layout=compact) 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanam02)](https://github.com/Sanam02)
 
