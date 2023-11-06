@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shokhsanam-turaeva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shokhsanam-turaeva" height="30" width="40" /></a>
 </p>
-
+[![Gmail Badge](https://img.shields.io/badge/-myshokhsanam.turaeva2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:myshokhsanam.turaeva2@gmail.com)](mailto:myshokhsanam.turaeva2@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
