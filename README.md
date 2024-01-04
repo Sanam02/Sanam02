@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **shokhsanamturaeva2@gmail.com**
 
-- ⚡ Fun fact ** I love cooking 👩🏻‍🍳🥗🍝🥧 ** 
+- ⚡ Fun fact ** My hobby is Photography and editing Videos ** 
 
 
 <h3 align="left">Connect with me:</h3>
