@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking to collaborate on **anything that involves DevOps | Cloud**
 
-- 📫 How to reach me **shokhsanamturaeva2@gmail.com**
+- 📫 How to reach me **sanam.turaeva2@gmail.com**
 
 - ⚡ Fun fact ** My hobby is Photography and editing Videos ** 
 
